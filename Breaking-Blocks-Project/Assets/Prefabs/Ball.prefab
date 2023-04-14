@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 590b4bdf0bec14c488bf1f27ca56a05d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  paddle: {fileID: 0}
+  paddle: {fileID: 1933227243208786352, guid: 496e2acc694f4ac40abb1b7345368027, type: 3}
   xPush: 20
   yPush: 15
   ballSounds:
@@ -145,6 +145,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 8cc43e93b92881142a886a39baa6f1a3, type: 3}
   - {fileID: 8300000, guid: 6287370d6a185e24785669b5ef5fce68, type: 3}
   - {fileID: 8300000, guid: a0a324dfb10d6db43aeb43d91e459069, type: 3}
+  randomFactor: 0.25
 --- !u!82 &9048567308945583474
 AudioSource:
   m_ObjectHideFlags: 0
